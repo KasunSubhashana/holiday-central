@@ -1,0 +1,15 @@
+.FormTitle {
+    margin: "8px 8px 8px 0px";
+    padding: "7px";
+    color: #3867d6;
+}
+
+.TextField {
+    width: "80%";
+    margin: "8px";
+}
+
+.LoginButton {
+    margin-top: "32px";
+    width: auto;
+}
